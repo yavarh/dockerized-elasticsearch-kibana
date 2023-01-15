@@ -40,7 +40,7 @@ log4j2.properties for configuring Elasticsearch logging
 The running container can be inspected by the following command (On a *Nix system):
 ``` $docker exec -it {CONTAINER_ID} /bin/sh ```
 
-The ```{CONTAINER_ID}``` can be obtained by docker ps command
+The ```{CONTAINER_ID}``` can be obtained by ```docker ps``` command
 
 Once inside the container shell/terminal, the elasticsearch configuration files are located at ```/usr/share/elasticsearch/config```
 
