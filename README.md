@@ -1,6 +1,6 @@
 # dockerized-elasticsearch-kibana
 
-Example showing how to create an index in containerized Elasticsearch using the Python client and searching using the Kibana Dev Tools. Everything (Kibana, ElasticSearch & indexer.py) runs as a container.
+Example showing how to create an index in Elasticsearch using the Python client and searching using the Kibana Dev Tools. Everything (Kibana, ElasticSearch & indexer.py) runs as a container.
 
 Run with:
 ```
