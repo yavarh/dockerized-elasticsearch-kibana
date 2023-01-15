@@ -1,0 +1,1802 @@
+[
+ {
+   "id": 1,
+   "name": "HP EliteBook Model 1",
+   "price": 38842,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 2,
+   "name": "Lenovo IdeaPad Model 2",
+   "price": 9405,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 3,
+   "name": "HP ProBook Model 3",
+   "price": 17589,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "128GB"
+ },
+ {
+   "id": 4,
+   "name": "HP EliteBook Model 4",
+   "price": 31905,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 5,
+   "name": "HP EliteBook Model 5",
+   "price": 34890,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 6,
+   "name": "HP EliteBook Model 6",
+   "price": 35985,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 7,
+   "name": "HP EliteBook Model 7",
+   "price": 25465,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 8,
+   "name": "Lenovo ThinkPad Model 8",
+   "price": 22164,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 9,
+   "name": "HP EliteBook Model 9",
+   "price": 22209,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 10,
+   "name": "Lenovo ThinkPad Model 10",
+   "price": 26715,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 11,
+   "name": "HP ZBook Model 11",
+   "price": 45175,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 12,
+   "name": "HP EliteBook Model 12",
+   "price": 36495,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 13,
+   "name": "HP ZBook Model 13",
+   "price": 35979,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 14,
+   "name": "HP ZBook Model 14",
+   "price": 39615,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 15,
+   "name": "HP ZBook Model 15",
+   "price": 41519,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 16,
+   "name": "HP EliteBook Model 16",
+   "price": 37985,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 17,
+   "name": "HP EliteBook Model 17",
+   "price": 39605,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 18,
+   "name": "HP EliteBook Model 18",
+   "price": 41545,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 19,
+   "name": "HP EliteBook Model 19",
+   "price": 43930,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 20,
+   "name": "HP EliteBook Model 20",
+   "price": 9990,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 21,
+   "name": "HP EliteBook Model 21",
+   "price": 53179,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 22,
+   "name": "HP EliteBook Model 22",
+   "price": 32425,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "1TB"
+ },
+ {
+   "id": 23,
+   "name": "HP ZBook Model 23",
+   "price": 51395,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 24,
+   "name": "HP EliteBook Model 23",
+   "price": 38885,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 25,
+   "name": "HP ZBook Model 25",
+   "price": 39069,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 26,
+   "name": "HP ProBook Model 26",
+   "price": 9980,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 27,
+   "name": "HP ProBook Model 27",
+   "price": 12145,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 28,
+   "name": "ASUS VivoBook Model 28",
+   "price": 3895,
+   "brand": "Asus",
+   "cpu": "Intel Core i3",
+   "memory": "4GB",
+   "storage": "128GB"
+ },
+ {
+   "id": 29,
+   "name": "HP Spectre Model 29",
+   "price": 33566,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 30,
+   "name": "HP EliteBook Model 30",
+   "price": 31715,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 31,
+   "name": "HP EliteBook Model 31",
+   "price": 32949,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 32,
+   "name": "HP EliteBook Model 32",
+   "price": 47765,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 33,
+   "name": "Lenovo Model 33",
+   "price": 9474,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 34,
+   "name": "Lenovo ThinkPad Model 34",
+   "price": 14988,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 35,
+   "name": "Lenovo ThinkPad Model 35",
+   "price": 22644,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 36,
+   "name": "Lenovo ThinkPad Model 36",
+   "price": 8990,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 37,
+   "name": "Lenovo ThinkPad Model 37",
+   "price": 23490,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 38,
+   "name": "Lenovo ThinkPad Model 38",
+   "price": 20057,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 39,
+   "name": "Lenovo ThinkPad Model 39",
+   "price": 23872,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 40,
+   "name": "Lenovo ThinkPad Model 40",
+   "price": 21020,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 41,
+   "name": "Dell Latitude Model 41",
+   "price": 13428,
+   "brand": "Dell",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 42,
+   "name": "HP EliteBook Model 42",
+   "price": 26715,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 43,
+   "name": "HP EliteBook Model 43",
+   "price": 26239,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 44,
+   "name": "HP EliteBook Model 44",
+   "price": 19499,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 45,
+   "name": "HP EliteBook Model 45",
+   "price": 25624,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 46,
+   "name": "HP EliteBook Model 46",
+   "price": 18499,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 47,
+   "name": "HP EliteBook Model 47",
+   "price": 26425,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 48,
+   "name": "HP EliteBook Model 48",
+   "price": 29175,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 49,
+   "name": "HP EliteBook Model 49",
+   "price": 30495,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 50,
+   "name": "HP EliteBook Model 50",
+   "price": 32145,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 51,
+   "name": "HP EliteBook Model 51",
+   "price": 27389,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 52,
+   "name": "Lenovo ThinkPad Model 52",
+   "price": 26796,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 53,
+   "name": "Lenovo ThinkPad Model 53",
+   "price": 28886,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 54,
+   "name": "Lenovo ThinkPad Model 54",
+   "price": 35613,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 55,
+   "name": "HP EliteBook Model 55",
+   "price": 40050,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 56,
+   "name": "HP EliteBook Model 56",
+   "price": 29965,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 57,
+   "name": "HP EliteBook Model 57",
+   "price": 41399,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 58,
+   "name": "HP EliteBook Model 58",
+   "price": 25875,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 59,
+   "name": "Lenovo ThinkPad Model 59",
+   "price": 12172,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i3",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 60,
+   "name": "HP ZBook Model 60",
+   "price": 37739,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 61,
+   "name": "HP ZBook Model 61",
+   "price": 41329,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 62,
+   "name": "HP ZBook Model 62",
+   "price": 44495,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 63,
+   "name": "HP ZBook Model 63",
+   "price": 35449,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 64,
+   "name": "HP EliteBook Model 64",
+   "price": 23945,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 65,
+   "name": "HP ZBook Model 65",
+   "price": 37185,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 66,
+   "name": "HP ZBook Model 66",
+   "price": 16339,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 67,
+   "name": "HP ZBook Model 67",
+   "price": 54575,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "32GB",
+   "storage": "1TB"
+ },
+ {
+   "id": 68,
+   "name": "HP ZBook Model 68",
+   "price": 31490,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 69,
+   "name": "HP ZBook Model 69",
+   "price": 46285,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 70,
+   "name": "Lenovo Model 70",
+   "price": 6297,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 71,
+   "name": "HP ZBook Model 71",
+   "price": 32145,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 72,
+   "name": "HP ZBook Model 72",
+   "price": 35039,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 73,
+   "name": "HP EliteBook Model 73",
+   "price": 22939,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 74,
+   "name": "HP EliteBook Model 74",
+   "price": 30059,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 75,
+   "name": "HP EliteBook Model 75",
+   "price": 25715,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 76,
+   "name": "HP EliteBook Model 76",
+   "price": 24950,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 77,
+   "name": "HP ZBook Model 77",
+   "price": 16616,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 78,
+   "name": "HP ZBook Model 78",
+   "price": 16490,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 79,
+   "name": "HP ZBook Model 79",
+   "price": 35404,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 80,
+   "name": "HP ZBook Model 80",
+   "price": 27689,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 81,
+   "name": "HP EliteBook Model 81",
+   "price": 42269,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 82,
+   "name": "HP EliteBook Model 82",
+   "price": 25985,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 83,
+   "name": "HP EliteBook Model 83",
+   "price": 36975,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 84,
+   "name": "HP EliteBook Model 84",
+   "price": 40455,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 85,
+   "name": "Lenovo Model 85",
+   "price": 8482,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 86,
+   "name": "Lenovo ThinkPad Model 86",
+   "price": 16867,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 87,
+   "name": "HP EliteBook Model 87",
+   "price": 30536,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 88,
+   "name": "HP ProBook Model 88",
+   "price": 15205,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 89,
+   "name": "HP EliteBook Model 89",
+   "price": 31378,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 90,
+   "name": "HP EliteBook Model 90",
+   "price": 31319,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 91,
+   "name": "HP EliteBook Model 91",
+   "price": 24353,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 92,
+   "name": "HP EliteBook Model 92",
+   "price": 45895,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 93,
+   "name": "HP EliteBook Model 93",
+   "price": 25179,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 94,
+   "name": "HP EliteBook Model 94",
+   "price": 29829,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 95,
+   "name": "HP ProBook Model 95",
+   "price": 14344,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 96,
+   "name": "Lenovo ThinkPad Model 96",
+   "price": 11672,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 97,
+   "name": "Lenovo ThinkPad Model 97",
+   "price": 11470,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 98,
+   "name": "Lenovo ThinkPad Model 98",
+   "price": 18565,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 99,
+   "name": "Lenovo ThinkPad Model 99",
+   "price": 18745,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 100,
+   "name": "Lenovo ThinkPad Model 100",
+   "price": 40809,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 101,
+   "name": "Lenovo Model 101",
+   "price": 4490,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i3",
+   "memory": "4GB",
+   "storage": "128GB"
+ },
+ {
+   "id": 102,
+   "name": "HP EliteBook Model 102",
+   "price": 27309,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 103,
+   "name": "HP EliteBook Model 103",
+   "price": 34984,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 104,
+   "name": "HP EliteBook Model 104",
+   "price": 23579,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 105,
+   "name": "HP Omen Model 105",
+   "price": 29308,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 106,
+   "name": "HP EliteBook Model 106",
+   "price": 27275,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 107,
+   "name": "HP EliteBook Model 107",
+   "price": 35450,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "1TB"
+ },
+ {
+   "id": 108,
+   "name": "HP EliteBook Model 108",
+   "price": 28935,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 109,
+   "name": "HP EliteBook Model 109",
+   "price": 22199,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 110,
+   "name": "HP EliteBook Model 110",
+   "price": 28519,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 111,
+   "name": "HP EliteBook Model 111",
+   "price": 23419,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 112,
+   "name": "HP ZBook Model 112",
+   "price": 40769,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 113,
+   "name": "Dell Latitude 113",
+   "price": 12209,
+   "brand": "Dell",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 114,
+   "name": "HP EliteBook Model 114",
+   "price": 24155,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 115,
+   "name": "HP EliteBook Model 115",
+   "price": 23855,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 116,
+   "name": "Lenovo ThinkPad Model 116",
+   "price": 16643,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 117,
+   "name": "Lenovo ThinkPad Model 117",
+   "price": 11363,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 118,
+   "name": "Lenovo ThinkPad Model 118",
+   "price": 22644,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 119,
+   "name": "HP ZBook Model 119",
+   "price": 36515,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "528GB"
+ },
+ {
+   "id": 120,
+   "name": "HP ZBook Model 120",
+   "price": 44903,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "32GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 121,
+   "name": "HP ZBook Model 121",
+   "price": 34645,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 122,
+   "name": "Asus VivoBook Model 122",
+   "price": 9000,
+   "brand": "Asus",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 123,
+   "name": "Lenovo ThinkPad Model 123",
+   "price": 9490,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 124,
+   "name": "HP ProBook Model 124",
+   "price": 16655,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 125,
+   "name": "HP EliteBook Model 125",
+   "price": 42420,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 126,
+   "name": "HP EliteBook Model 126",
+   "price": 32760,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 127,
+   "name": "HP EliteBook Model 127",
+   "price": 29565,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 128,
+   "name": "HP ProBook Model 128",
+   "price": 9994,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 129,
+   "name": "Lenovo Legion Model 129",
+   "price": 29495,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "1TB"
+ },
+ {
+   "id": 130,
+   "name": "Lenovo ThinkPad Model 130",
+   "price": 8631,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "4GB",
+   "storage": "128GB"
+ },
+ {
+   "id": 131,
+   "name": "Apple MacBook Model 131",
+   "price": 16795,
+   "brand": "Apple",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 132,
+   "name": "Apple MacBook Model 132",
+   "price": 18990,
+   "brand": "Apple",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 133,
+   "name": "Lenovo Legion 133",
+   "price": 19987,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "128GB"
+ },
+ {
+   "id": 134,
+   "name": "Apple MacBook Model 134",
+   "price": 16490,
+   "brand": "Apple",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 135,
+   "name": "Lenovo ThinkPad Model 135",
+   "price": 10505,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 136,
+   "name": "Lenovo ThinkPad Model 136",
+   "price": 12974,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 137,
+   "name": "Lenovo ThinkPad Model 137",
+   "price": 25701,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "32GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 138,
+   "name": "Lenovo ThinkPad Model 138",
+   "price": 22305,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 139,
+   "name": "Lenovo Legion 139",
+   "price": 21355,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 140,
+   "name": "HP EliteBook Model 140",
+   "price": 18495,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 141,
+   "name": "HP EliteBook Model 141",
+   "price": 23135,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 142,
+   "name": "HP EliteBook Model 142",
+   "price": 21474,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 143,
+   "name": "HP ZBook Model 143",
+   "price": 49038,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "32GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 144,
+   "name": "HP ZBook Model 144",
+   "price": 14759,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "16GB"
+ },
+ {
+   "id": 145,
+   "name": "HP ZBook Model 145",
+   "price": 53855,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "16GB"
+ },
+ {
+   "id": 146,
+   "name": "HP ZBook Model 146",
+   "price": 45250,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 147,
+   "name": "HP ZBook Model 147",
+   "price": 70769,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "16GB"
+ },
+ {
+   "id": 148,
+   "name": "HP ZBook Model 148",
+   "price": 18245,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 149,
+   "name": "HP ZBook Model 149",
+   "price": 22380,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 150,
+   "name": "HP ZBook Model 150",
+   "price": 33321,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 151,
+   "name": "HP ZBook Model 151",
+   "price": 39045,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 152,
+   "name": "HP ZBook Model 152",
+   "price": 31293,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "32GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 153,
+   "name": "HP ZBook Model 153",
+   "price": 17579,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 154,
+   "name": "HP ZBook Model 154",
+   "price": 26199,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 155,
+   "name": "HP ZBook Model 155",
+   "price": 16915,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 156,
+   "name": "HP EliteBook Model 156",
+   "price": 22995,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 157,
+   "name": "HP ProBook Model 157",
+   "price": 11799,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 158,
+   "name": "Apple MacBook Model 158",
+   "price": 30349,
+   "brand": "Apple",
+   "cpu": "Intel Core i9",
+   "memory": "16GB",
+   "storage": "1024GB"
+ },
+ {
+   "id": 159,
+   "name": "Apple MacBook Model 159",
+   "price": 27489,
+   "brand": "Apple",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 160,
+   "name": "HP Spectre 160",
+   "price": 19990,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 161,
+   "name": "Lenovo ThinkPad Model 161",
+   "price": 16839,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 162,
+   "name": "Lenovo ThinkPad Model 162",
+   "price": 21490,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 163,
+   "name": "Lenovo ThinkPad Model 163",
+   "price": 25853,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "1024GB"
+ },
+ {
+   "id": 164,
+   "name": "Lenovo ThinkPad Model 164",
+   "price": 21657,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 165,
+   "name": "Lenovo ThinkPad Model 165",
+   "price": 17990,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 166,
+   "name": "Asus ZenBook Model 166",
+   "price": 14990,
+   "brand": "Asus",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 167,
+   "name": "Lenovo ThinkPad Model 167",
+   "price": 26055,
+   "brand": "Lenovo",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 168,
+   "name": "HP EliteBook Model 168",
+   "price": 27296,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 169,
+   "name": "HP ZBook Model 169",
+   "price": 35599,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 170,
+   "name": "HP ZBook Model 170",
+   "price": 15219,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "32GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 171,
+   "name": "HP EliteBook Model 171",
+   "price": 27691,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 172,
+   "name": "HP EliteBook Model 172",
+   "price": 9994,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 173,
+   "name": "HP ZBook Model 173",
+   "price": 30072,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 174,
+   "name": "HP ZBook Model 174",
+   "price": 12792,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 175,
+   "name": "HP EliteBook Model 175",
+   "price": 19337,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 176,
+   "name": "HP ProBook Model 176",
+   "price": 14800,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 177,
+   "name": "HP EliteBook Model 177",
+   "price": 22273,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 178,
+   "name": "HP EliteBook Model 178",
+   "price": 28690,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 179,
+   "name": "HP ProBook Model 179",
+   "price": 11395,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 180,
+   "name": "HP EliteBook Model 180",
+   "price": 13785,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 181,
+   "name": "HP EliteBook Model 181",
+   "price": 16768,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 182,
+   "name": "HP ProBook Model 182",
+   "price": 13949,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 183,
+   "name": "HP EliteBook Model 183",
+   "price": 24600,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 184,
+   "name": "Apple MacBook Model 184",
+   "price": 32989,
+   "brand": "Apple",
+   "cpu": "Intel Core i9",
+   "memory": "16GB",
+   "storage": "1024GB"
+ },
+ {
+   "id": 185,
+   "name": "HP ZBook Model 185",
+   "price": 27919,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 186,
+   "name": "HP EliteBook Model 186",
+   "price": 26399,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 187,
+   "name": "HP ProBook Model 187",
+   "price": 14228,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 188,
+   "name": "HP ZBook Model 188",
+   "price": 51959,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 189,
+   "name": "HP ZBook Model 189",
+   "price": 41599,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 190,
+   "name": "HP ZBook Model 190",
+   "price": 37849,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 191,
+   "name": "HP EliteBook Model 191",
+   "price": 20990,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 192,
+   "name": "HP ProBook Model 192",
+   "price": 13999,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 193,
+   "name": "HP EliteBook Model 193",
+   "price": 13351,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 194,
+   "name": "HP ProBook Model 194",
+   "price": 15975,
+   "brand": "HP",
+   "cpu": "Intel Core i7",
+   "memory": "16GB",
+   "storage": "512GB"
+ },
+ {
+   "id": 195,
+   "name": "HP ProBook Model 195",
+   "price": 13109,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 196,
+   "name": "HP ZBook Model 196",
+   "price": 29919,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 197,
+   "name": "HP ZBook Model 197",
+   "price": 46600,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "8GB",
+   "storage": "256GB"
+ },
+ {
+   "id": 198,
+   "name": "HP ZBook Model 198",
+   "price": 33307,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "16GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 199,
+   "name": "HP ZBook Model 199",
+   "price": 34559,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ },
+ {
+   "id": 200,
+   "name": "HP ZBook Model 200",
+   "price": 31949,
+   "brand": "HP",
+   "cpu": "Intel Core i5",
+   "memory": "4GB",
+   "storage": "8GB"
+ }
+]
