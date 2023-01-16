@@ -10,11 +10,9 @@ $docker-compose up
 
 Lucene Index is persisted using Docker Volumes. Index Location: ```$PROJECT_ROOT_DIRECTORY/esdata/nodes/0/_state```
 
-A Kibana container helps to navigate the indexed dataset. The index is accessible at <http://localhost:9200/laptops>
+The index settings & mappings configurations is at location ```$PROJECT_ROOT_DIRECTORY/indexer/config```
 
 Kibana can be accessed at http://localhost:5601/app/home#/
-
-The index settings & mappings configurations is at location ```$PROJECT_ROOT_DIRECTORY/indexer/config```
 
 Once the containers are running, the index can be searched using REST APIs. Kibana provides Dev Tools to search the index - http://localhost:5601/app/dev_tools#/console
 
